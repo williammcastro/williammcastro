@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @williammcastro
-- 👀 I’m interested in tech to solve problems
-- 🌱 I’m currently learning flutter and backend servers
-- 💞️ I’m looking to work on health solutions
+- 👀 I’m interested in healthtech and I'm working on this kind of projects
+- 🌱 I’m currently working with flutter and react native
 - 📫 How to reach me williammcastro@msn.com
 
 <!---
